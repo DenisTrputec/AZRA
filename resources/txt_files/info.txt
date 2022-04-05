@@ -1,0 +1,7 @@
+﻿AZRA
+(Aplikacija Za RAnkiranje)
+
+Izradio: Denis Trputec
+Zasluge: Denis Trputec, Dino Žanić
+
+Aplikacija je napravljena kao rješenje za automatizaciju procesa kreiranja liste prioriteta prema studiji 'Kriterij i metodologija za definiranje liste prioriteta kod zamjena i rekonstrukcija elemenata prijenosne mreže'.

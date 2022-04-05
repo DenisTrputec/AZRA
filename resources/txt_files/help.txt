@@ -1,0 +1,5 @@
+AZRA    (Aplikacija Za RAnkiranje)
+
+Prije pocetka koristenja aplikacije, potreno je pripremiti datoteke koje sadrze ulazne podatke odnosno liste sa kandidatima za zamjenu i rekonstrukciju kao sto je objasnjeno u prirucniku.
+AZRA takodjer automatski izvrsava validaciju ucitanih datoteka koje moraju biti odgovarajuceg formata i sadrzaja, u suprotnom aplikacija obavijestava korisnika kako je doslo do greske u validaciji prilikom ucitavanja.
+Ukoliko su ucitane datoteke s ulaznim podacima ispravne i tip investicijskog objekta odabran, korisnik klikom na tipku 'Izvrsi proracun' brzo dolazi do rezultata.
